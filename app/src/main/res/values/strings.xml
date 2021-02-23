@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="app_name">AssignmentDevita</string>
+    <string name="Login_id">Higher</string>
+    <string name="Sign_up">Lower</string>
+    <string name="Img1">Image1</string>
+    <string name="Img2">Image2</string>
+    <string name="BlankResult"></string>
+
+
+
+</resources>
